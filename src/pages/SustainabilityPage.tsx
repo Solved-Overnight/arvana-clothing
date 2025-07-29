@@ -137,7 +137,7 @@ export default function SustainabilityPage() {
             <img
               src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/ETP.png"
               alt="Effluent & Water Treatment"
-              className="rounded-3xl shadow-xl border border-teal-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
+              className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect max-h-[300px] w-full object-cover"
             />
           </div>
           <div className="text-gray-700 animate-fade-in-right">
@@ -176,7 +176,7 @@ export default function SustainabilityPage() {
             <img
               src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SafeWorkSpace.png"
               alt="Safe & Green Working Environment"
-              className="rounded-3xl shadow-xl border border-purple-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
+              className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect max-h-[300px] w-full object-cover"
             />
           </div>
         </section>
@@ -187,7 +187,7 @@ export default function SustainabilityPage() {
             <img
               src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SustainableProduct.jpg"
               alt="Sustainable Fibers"
-              className="rounded-3xl shadow-xl border border-yellow-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
+              className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect max-h-[300px] w-full object-cover"
             />
           </div>
           <div className="text-gray-700 animate-fade-in-right">
