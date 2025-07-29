@@ -10,7 +10,7 @@ export default function SustainabilityPage() {
         {/* Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center animate-zoom-in"
-          style={{ backgroundImage: "url('https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/Sustainable.jpg')" }}
+          style={{ backgroundImage: "url('https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SustainableProduct.jpg')" }}
         ></div>
         {/* Overlay with gradient and subtle pattern */}
         <div className="absolute inset-0 bg-gradient-to-r from-green-900/80 via-green-900/50 to-transparent backdrop-blur-sm opacity-90"></div>
@@ -85,7 +85,7 @@ export default function SustainabilityPage() {
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-24">
           <div className="animate-fade-in-left">
             <img
-              src="https://images.unsplash.com/photo-1508849196115-ce68646245b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB4MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/WareHouse.jpg"
               alt="Renewable Energy"
               className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
             />
@@ -124,7 +124,7 @@ export default function SustainabilityPage() {
           </div>
           <div className="order-1 lg:order-2 animate-fade-in-right">
             <img
-              src="https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB4MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/CarbonFootPrint.jpg"
               alt="Carbon Footprint Reduction"
               className="rounded-3xl shadow-xl border border-blue-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
             />
@@ -135,7 +135,7 @@ export default function SustainabilityPage() {
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-24">
           <div className="animate-fade-in-left">
             <img
-              src="https://images.unsplash.com/photo-1587223962930-cb7f317f862c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB4MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/ETP.png"
               alt="Effluent & Water Treatment"
               className="rounded-3xl shadow-xl border border-teal-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
             />
@@ -174,7 +174,7 @@ export default function SustainabilityPage() {
           </div>
           <div className="order-1 lg:order-2 animate-fade-in-right">
             <img
-              src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB4MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SafeWorkSpace.png"
               alt="Safe & Green Working Environment"
               className="rounded-3xl shadow-xl border border-purple-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
             />
@@ -185,7 +185,7 @@ export default function SustainabilityPage() {
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-24">
           <div className="animate-fade-in-left">
             <img
-              src="https://images.unsplash.com/photo-1581783970222-f9427776247a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB4MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SustainableProduct.jpg"
               alt="Sustainable Fibers"
               className="rounded-3xl shadow-xl border border-yellow-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
             />
