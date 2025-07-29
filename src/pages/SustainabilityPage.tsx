@@ -10,7 +10,7 @@ export default function SustainabilityPage() {
         {/* Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center animate-zoom-in"
-          style={{ backgroundImage: "url('https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SustainableProduct.jpg')" }}
+          style={{ backgroundImage: "url('https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/Sustainable.jpg')" }}
         ></div>
         {/* Overlay with gradient and subtle pattern */}
         <div className="absolute inset-0 bg-gradient-to-r from-green-900/80 via-green-900/50 to-transparent backdrop-blur-sm opacity-90"></div>
@@ -79,6 +79,31 @@ export default function SustainabilityPage() {
           <p className="text-lg text-gray-700 max-w-3xl mx-auto mb-16 animate-fade-in-up animate-fade-in-delay">
             We are dedicated to integrating sustainable practices across our entire value chain, focusing on key areas to minimize our environmental footprint and maximize social impact.
           </p>
+        </section>
+
+        {/* Sustainable Fibers (Manmade & Blended) */}
+        <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-24">
+          <div className="animate-fade-in-left">
+            <img
+              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SustainableProduct.jpg"
+              alt="Sustainable Fibers"
+              className="rounded-3xl shadow-xl border border-yellow-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
+            />
+          </div>
+          <div className="text-gray-700 animate-fade-in-right">
+            <div className="flex items-center mb-4">
+              <Sprout className="w-10 h-10 text-yellow-600 mr-4" />
+              <h3 className="text-3xl font-bold text-yellow-800">Sustainable Fibers</h3>
+            </div>
+            <p className="text-lg leading-relaxed mb-4">
+              Increasing the use of recycled, manmade, and blended fibers to reduce water consumption and environmental impact compared to traditional materials.
+            </p>
+            <ul className="list-disc list-inside space-y-2 text-lg text-gray-600">
+              <li>Utilizing recycled polyester and nylon.</li>
+              <li>Innovating with bio-based and blended materials.</li>
+              <li>Reducing reliance on water-intensive crops.</li>
+            </ul>
+          </div>
         </section>
 
         {/* Renewable Energy */}
@@ -178,31 +203,6 @@ export default function SustainabilityPage() {
               alt="Safe & Green Working Environment"
               className="rounded-3xl shadow-xl border border-purple-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
             />
-          </div>
-        </section>
-
-        {/* Sustainable Fibers (Manmade & Blended) */}
-        <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-24">
-          <div className="animate-fade-in-left">
-            <img
-              src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/SustainableProduct.jpg"
-              alt="Sustainable Fibers"
-              className="rounded-3xl shadow-xl border border-yellow-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
-            />
-          </div>
-          <div className="text-gray-700 animate-fade-in-right">
-            <div className="flex items-center mb-4">
-              <Sprout className="w-10 h-10 text-yellow-600 mr-4" />
-              <h3 className="text-3xl font-bold text-yellow-800">Sustainable Fibers</h3>
-            </div>
-            <p className="text-lg leading-relaxed mb-4">
-              Increasing the use of recycled, manmade, and blended fibers to reduce water consumption and environmental impact compared to traditional materials.
-            </p>
-            <ul className="list-disc list-inside space-y-2 text-lg text-gray-600">
-              <li>Utilizing recycled polyester and nylon.</li>
-              <li>Innovating with bio-based and blended materials.</li>
-              <li>Reducing reliance on water-intensive crops.</li>
-            </ul>
           </div>
         </section>
 
