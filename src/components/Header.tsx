@@ -83,7 +83,7 @@ export default function Header({ onCartClick, onWishlistClick, onProfileClick, o
               to="/flash-sale"
               className="text-red-600 hover:text-red-700 transition-all duration-300 font-medium relative group py-2 flex items-center gap-2 animate-pulse"
             >
-              <Zap className="h-8 w-8 sm:h-12 sm:w-12 animate-bounce" />
+              <Zap className="h-8 w-8 animate-bounce" />
               Flash Sale
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-red-600 transition-all duration-300 group-hover:w-full"></span>
             </Link>
