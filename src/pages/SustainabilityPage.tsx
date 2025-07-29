@@ -87,7 +87,7 @@ export default function SustainabilityPage() {
             <img
               src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/WareHouse.jpg"
               alt="Renewable Energy"
-              className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
+              className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect max-h-[300px] w-full object-cover"
             />
           </div>
           <div className="text-gray-700 animate-fade-in-right">
@@ -126,7 +126,7 @@ export default function SustainabilityPage() {
             <img
               src="https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/sustainability/CarbonFootPrint.jpg"
               alt="Carbon Footprint Reduction"
-              className="rounded-3xl shadow-xl border border-blue-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect"
+              className="rounded-3xl shadow-xl border border-green-200 transform hover:scale-[1.02] transition-transform duration-500 image-hover-effect max-h-[300px] w-full object-cover"
             />
           </div>
         </section>
