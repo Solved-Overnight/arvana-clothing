@@ -14,7 +14,7 @@ const heroSlides = [
   },
   {
     id: 2,
-    image: 'https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: 'https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/background/bg1.jpg',
     title: ['New', 'Season'],
     subtitle: ['Arrivals', 'Collection', 'Trends', 'Styles'],
     description: 'Fresh styles and contemporary designs that define modern elegance and sophistication.',
@@ -22,7 +22,7 @@ const heroSlides = [
   },
   {
     id: 3,
-    image: 'https://images.pexels.com/photos/5560021/pexels-photo-5560021.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: 'https://raw.githubusercontent.com/Solved-Overnight/arvana-clothing/refs/heads/main/img/background/bg2.jpg',
     title: ['Premium'],
     subtitle: ['Quality', 'Luxury', 'Elegance', 'Craftsmanship'],
     description: 'Exceptional craftsmanship meets timeless design in every piece of our collection.',
